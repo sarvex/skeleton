@@ -50,7 +50,7 @@
 		"@vitest/coverage-c8": "0.32.0",
 		"autoprefixer": "10.4.14",
 		"eslint": "8.42.0",
-		"eslint-config-prettier": "8.8.0",
+		"eslint-config-prettier": "9.0.0",
 		"eslint-plugin-svelte": "^2.31.0",
 		"jsdom": "21.1.1",
 		"postcss": "8.4.24",
