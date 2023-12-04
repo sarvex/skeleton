@@ -36,7 +36,7 @@
 		"@vercel/analytics": "^1.0.1",
 		"autoprefixer": "^10.4.14",
 		"eslint": "^8.42.0",
-		"eslint-config-prettier": "^8.8.0",
+		"eslint-config-prettier": "^9.1.0",
 		"eslint-plugin-svelte": "^2.30.0",
 		"highlight.js": "^11.8.0",
 		"minimatch": "^9.0.3",
