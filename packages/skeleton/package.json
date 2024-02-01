@@ -53,7 +53,7 @@
 		"eslint-config-prettier": "8.8.0",
 		"eslint-plugin-svelte": "^2.31.0",
 		"jsdom": "21.1.1",
-		"postcss": "8.4.24",
+		"postcss": "8.4.31",
 		"postcss-import": "15.1.0",
 		"postcss-js": "4.0.1",
 		"postcss-load-config": "4.0.1",
